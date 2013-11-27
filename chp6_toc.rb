@@ -20,7 +20,7 @@ puts ('Chapter ' + chap.to_s + ':  ' + title.ljust(line_width/2) +
 
 chap = 3
 title = 'Letters'
-page = 13
+page = 14
 
 puts ('Chapter ' + chap.to_s + ':  ' + title.ljust(line_width/2) + 
 			('page  ' + page.to_s).rjust(line_width/2))
